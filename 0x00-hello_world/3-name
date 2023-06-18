@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 touch cisfun | chmod u+x cisfun
