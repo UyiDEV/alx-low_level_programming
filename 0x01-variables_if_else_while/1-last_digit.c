@@ -24,10 +24,10 @@ int main(void)
 	}
 	else if ((n % 10) > 5)
 	{
-		printf("is greater than\n");
+		printf("is greater than 5\n");
 	}
 	else
-		printf("is less than\n");
+		printf("is less than 6 and not 0\n");
 
 	return (0);
 }
